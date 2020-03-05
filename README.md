@@ -1,5 +1,5 @@
 # Hello-World
-Practice Repository
+* * Practice Repository
 
 I am a current student at the University of Iowa studying a B.B.A in Business Analytics and Information Systems. I currently hold a position as a student clerk at The University of Iowa Health Care Patient Financial Services.
 
@@ -8,8 +8,8 @@ I am a current student at the University of Iowa studying a B.B.A in Business An
 + My Project
 + Project Details
 
-### My Project
-+ Insert title of project here.
+### My Project Title
+Hello World Sample
 
 
 ### Project Details
@@ -17,7 +17,12 @@ I am a current student at the University of Iowa studying a B.B.A in Business An
 + Why did you do this project?
 + Was this project for a course?
 
+### How to run my program
++ Tips on how to run my program here.
 
-### Websites Used
+### Files Used
 + Insert websites used here in list form.
 + Example: [Google](https://www.google.com/?client=safari)
+
+#### Versions of my project
++ Update version as I add more to this file.

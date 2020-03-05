@@ -20,4 +20,4 @@ I am a current student at the University of Iowa studying a B.B.A in Business An
 
 ### Websites Used
 + Insert websites used here in list form.
-+ Example: [Google] (https://www.google.com/?client=safari)
++ Example: [Google](https://www.google.com/?client=safari)

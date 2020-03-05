@@ -9,7 +9,7 @@ My Project
 Project Details
 
 ### My Project
-Insert title of project here.
++ Insert title of project here.
 
 
 ### Project Details

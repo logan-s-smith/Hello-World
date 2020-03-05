@@ -5,8 +5,7 @@ I am a current student at the University of Iowa studying a B.B.A in Business An
 
 
 ### Table of Contents
-+ My Project
-+ Project Details
++[My Project Title](My_Project_Title)
 
 ### My Project Title
 Hello World Sample

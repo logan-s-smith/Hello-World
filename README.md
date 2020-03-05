@@ -5,11 +5,11 @@ I am a current student at the University of Iowa studying a B.B.A in Business An
 
 
 ### Table of Contents
--+[My Project Title](My_Project_Title)
-+[Project Details](Project_Details)
-+[How to run my program](How_to_run_my_program)
-+[Files Used](Files_Used)
-+[Versions of my project](Versions_of_my_project)
++ [My Project Title](My_Project_Title)
++ [Project Details](Project_Details)
++ [How to run my program](How_to_run_my_program)
++ [Files Used](Files_Used)
++ [Versions of my project](Versions_of_my_project)
 
 ### My Project Title
 Hello World Sample

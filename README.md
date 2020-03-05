@@ -1,21 +1,23 @@
-### Hello-World
+##### Hello-World
 Practice Repository
 
 I am a current student at the University of Iowa studying a B.B.A in Business Analytics and Information Systems. I currently hold a position as a student clerk at The University of Iowa Health Care Patient Financial Services.
 
 
 ### Table of Contents
-My Project
-Project Details
++ My Project
++ Project Details
 
 ### My Project
 + Insert title of project here.
 
 
 ### Project Details
-+Insert instructions and details of project here.
++ Insert instructions and details of project here.
++ Why did you do this project?
++ Was this project for a course?
 
 
-## Websites Used
-+ Insert websites used here.
-++Example: [Google] (google.com)
+### Websites Used
++ Insert websites used here in list form.
++ Example: [Google] (https://www.google.com/?client=safari)
